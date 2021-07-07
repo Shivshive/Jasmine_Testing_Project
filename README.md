@@ -1,6 +1,6 @@
 # Jasmine_Testing_Project
 
-This Project contains basic jasmine test specs and most importantly how we can use the jasmine custom reporter. 
+#This Project contains basic jasmine test specs and most importantly how we can use the jasmine custom reporter. 
 
 To Run this project simply clone this repository and run below commands.
 ```
