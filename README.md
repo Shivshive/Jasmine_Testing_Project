@@ -3,10 +3,10 @@
 This Project contains basic jasmine test specs and most importantly how we can use the jasmine custom reporter. 
 
 To Run this project simply clone this repository and run below commands.
-
-> yarn install
-> yarn test
-
+```
+yarn install
+yarn test
+```
 **Note**: But to run yarn, first make sure you have yarn installed in your system, if not then download the yarn installer and install it first.
 
 Recommented editor for this is Visual Studio Code.
