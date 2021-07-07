@@ -1,0 +1,62 @@
+{
+    "suite1": {
+        "id": "suite1",
+        "description": "Express APP Test",
+        "fullName": "Express APP Test",
+        "failedExpectations": [],
+        "deprecationWarnings": [],
+        "duration": 14,
+        "properties": null,
+        "status": "passed",
+        "specs": [
+            {
+                "id": "spec1",
+                "description": "/GET Method Message Test",
+                "fullName": "Express APP Test /GET Method Message Test",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "deprecationWarnings": [],
+                "pendingReason": "",
+                "duration": 4,
+                "properties": null,
+                "status": "excluded"
+            },
+            {
+                "id": "spec0",
+                "description": "/GET Method Status Code Test",
+                "fullName": "Express APP Test /GET Method Status Code Test",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "deprecationWarnings": [],
+                "pendingReason": "",
+                "duration": 0,
+                "properties": null,
+                "status": "excluded"
+            },
+            {
+                "id": "spec2",
+                "description": "/POST Method Status Code Test",
+                "fullName": "Express APP Test /POST Method Status Code Test",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "deprecationWarnings": [],
+                "pendingReason": "",
+                "duration": 0,
+                "properties": null,
+                "status": "excluded"
+            },
+            {
+                "id": "spec3",
+                "description": "/POST Method Body Match Test",
+                "fullName": "Express APP Test /POST Method Body Match Test",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "deprecationWarnings": [],
+                "pendingReason": "",
+                "duration": 0,
+                "properties": null,
+                "status": "excluded"
+            }
+        ]
+    }
+}
