@@ -5,31 +5,19 @@
         "fullName": "Express APP Test",
         "failedExpectations": [],
         "deprecationWarnings": [],
-        "duration": 14,
+        "duration": 13,
         "properties": null,
         "status": "passed",
         "specs": [
             {
-                "id": "spec1",
-                "description": "/GET Method Message Test",
-                "fullName": "Express APP Test /GET Method Message Test",
+                "id": "spec3",
+                "description": "/POST Method Body Match Test",
+                "fullName": "Express APP Test /POST Method Body Match Test",
                 "failedExpectations": [],
                 "passedExpectations": [],
                 "deprecationWarnings": [],
                 "pendingReason": "",
-                "duration": 4,
-                "properties": null,
-                "status": "excluded"
-            },
-            {
-                "id": "spec0",
-                "description": "/GET Method Status Code Test",
-                "fullName": "Express APP Test /GET Method Status Code Test",
-                "failedExpectations": [],
-                "passedExpectations": [],
-                "deprecationWarnings": [],
-                "pendingReason": "",
-                "duration": 0,
+                "duration": 1,
                 "properties": null,
                 "status": "excluded"
             },
@@ -46,14 +34,26 @@
                 "status": "excluded"
             },
             {
-                "id": "spec3",
-                "description": "/POST Method Body Match Test",
-                "fullName": "Express APP Test /POST Method Body Match Test",
+                "id": "spec1",
+                "description": "/GET Method Message Test",
+                "fullName": "Express APP Test /GET Method Message Test",
                 "failedExpectations": [],
                 "passedExpectations": [],
                 "deprecationWarnings": [],
                 "pendingReason": "",
-                "duration": 0,
+                "duration": 1,
+                "properties": null,
+                "status": "excluded"
+            },
+            {
+                "id": "spec0",
+                "description": "/GET Method Status Code Test",
+                "fullName": "Express APP Test /GET Method Status Code Test",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "deprecationWarnings": [],
+                "pendingReason": "",
+                "duration": 3,
                 "properties": null,
                 "status": "excluded"
             }
