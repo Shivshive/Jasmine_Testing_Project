@@ -10,4 +10,4 @@ yarn test
 **Note**: But to run yarn, first make sure you have yarn installed in your system, if not then download the yarn installer and install it first.
 
 Recommended editor for this is Visual Studio Code.
-Also to run jasmine test directory, an extension can be installed in visual studio with the name as Jasmine Test Explorer, using this extension after configuring your project you can directly run spec from this explorer.
+Also to run jasmine test directory, an extension can be installed in visual studio with the name as Jasmine Test Explorer, using this extension after configuring your project you can directly run spec from this explorer. 
