@@ -5,7 +5,7 @@
         "fullName": "Express APP Test",
         "failedExpectations": [],
         "deprecationWarnings": [],
-        "duration": 13,
+        "duration": 387,
         "properties": null,
         "status": "passed",
         "specs": [
@@ -14,48 +14,76 @@
                 "description": "/POST Method Body Match Test",
                 "fullName": "Express APP Test /POST Method Body Match Test",
                 "failedExpectations": [],
-                "passedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toBe",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
                 "deprecationWarnings": [],
                 "pendingReason": "",
-                "duration": 1,
+                "duration": 311,
                 "properties": null,
-                "status": "excluded"
+                "status": "passed"
             },
             {
                 "id": "spec2",
                 "description": "/POST Method Status Code Test",
                 "fullName": "Express APP Test /POST Method Status Code Test",
                 "failedExpectations": [],
-                "passedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
                 "deprecationWarnings": [],
                 "pendingReason": "",
-                "duration": 0,
+                "duration": 14,
                 "properties": null,
-                "status": "excluded"
+                "status": "passed"
             },
             {
                 "id": "spec1",
                 "description": "/GET Method Message Test",
                 "fullName": "Express APP Test /GET Method Message Test",
                 "failedExpectations": [],
-                "passedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toContain",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
                 "deprecationWarnings": [],
                 "pendingReason": "",
-                "duration": 1,
+                "duration": 14,
                 "properties": null,
-                "status": "excluded"
+                "status": "passed"
             },
             {
                 "id": "spec0",
                 "description": "/GET Method Status Code Test",
                 "fullName": "Express APP Test /GET Method Status Code Test",
                 "failedExpectations": [],
-                "passedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
                 "deprecationWarnings": [],
                 "pendingReason": "",
-                "duration": 3,
+                "duration": 7,
                 "properties": null,
-                "status": "excluded"
+                "status": "passed"
             }
         ]
     }
