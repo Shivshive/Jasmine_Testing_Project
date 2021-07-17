@@ -5,7 +5,7 @@
         "fullName": "Express APP Test",
         "failedExpectations": [],
         "deprecationWarnings": [],
-        "duration": 387,
+        "duration": 71,
         "properties": null,
         "status": "passed",
         "specs": [
@@ -24,45 +24,7 @@
                 ],
                 "deprecationWarnings": [],
                 "pendingReason": "",
-                "duration": 311,
-                "properties": null,
-                "status": "passed"
-            },
-            {
-                "id": "spec2",
-                "description": "/POST Method Status Code Test",
-                "fullName": "Express APP Test /POST Method Status Code Test",
-                "failedExpectations": [],
-                "passedExpectations": [
-                    {
-                        "matcherName": "toEqual",
-                        "message": "Passed.",
-                        "stack": "",
-                        "passed": true
-                    }
-                ],
-                "deprecationWarnings": [],
-                "pendingReason": "",
-                "duration": 14,
-                "properties": null,
-                "status": "passed"
-            },
-            {
-                "id": "spec1",
-                "description": "/GET Method Message Test",
-                "fullName": "Express APP Test /GET Method Message Test",
-                "failedExpectations": [],
-                "passedExpectations": [
-                    {
-                        "matcherName": "toContain",
-                        "message": "Passed.",
-                        "stack": "",
-                        "passed": true
-                    }
-                ],
-                "deprecationWarnings": [],
-                "pendingReason": "",
-                "duration": 14,
+                "duration": 47,
                 "properties": null,
                 "status": "passed"
             },
@@ -82,6 +44,44 @@
                 "deprecationWarnings": [],
                 "pendingReason": "",
                 "duration": 7,
+                "properties": null,
+                "status": "passed"
+            },
+            {
+                "id": "spec2",
+                "description": "/POST Method Status Code Test",
+                "fullName": "Express APP Test /POST Method Status Code Test",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toEqual",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "deprecationWarnings": [],
+                "pendingReason": "",
+                "duration": 3,
+                "properties": null,
+                "status": "passed"
+            },
+            {
+                "id": "spec1",
+                "description": "/GET Method Message Test",
+                "fullName": "Express APP Test /GET Method Message Test",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toContain",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "deprecationWarnings": [],
+                "pendingReason": "",
+                "duration": 5,
                 "properties": null,
                 "status": "passed"
             }
